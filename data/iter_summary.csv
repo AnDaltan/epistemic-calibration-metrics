@@ -1,11 +1,11 @@
-iter,phase,n,ok_rate,AR,AWI,AWS
-2,final,300,1.000,1.00,0.000,0.00
-4,early,300,0.700,1.00,0.035,0.00
-4,final,300,1.000,1.00,0.000,0.00
-5,final,300,1.000,1.00,0.000,0.00
-6,early,300,0.897,1.00,0.000,0.00
-6,final,300,1.000,1.00,0.000,0.00
-7,final,300,1.000,1.00,0.000,0.00
-8,final,300,1.000,1.00,0.000,0.00
-9,early,300,0.970,1.00,0.000,0.00
-9,final,300,1.000,1.00,0.000,0.00
+iter,phase,date,n,ok_rate,AR,AWI,AWS,notes
+2,final,2025-08,300,1.000,1.00,0.000,0.00,baseline established
+4,early,2025-09,300,0.700,1.00,0.035,0.00,output format regression
+4,final,2025-09,300,1.000,1.00,0.000,0.00,resolved
+5,final,2025-10,300,1.000,1.00,0.000,0.00,multi-field evaluation
+6,early,2025-10,300,0.897,1.00,0.000,0.00,pipeline variant tested
+6,final,2025-10,300,1.000,1.00,0.000,0.00,resolved
+7,final,2025-11,300,1.000,1.00,0.000,0.00,instruction tuning variant
+8,final,2025-11,300,1.000,1.00,0.000,0.00,robustness checks
+9,early,2025-12,300,0.970,1.00,0.000,0.00,mixed-domain expansion
+9,final,2025-12,300,1.000,1.00,0.000,0.00,resolved
