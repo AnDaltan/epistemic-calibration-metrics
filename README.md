@@ -4,6 +4,16 @@ This repository publishes high-level, iteration-level metrics tracking a narrow 
 
 The focus here is measurement and outcomes. This repository is intentionally limited to aggregate results.
 
+| | |
+|---|---|
+| **Status** | Active development |
+| **Iterations** | 9 completed |
+| **Evaluations** | ~2,700+ items |
+| **Period** | July 2025 – present |
+
+→ See [`STATUS.md`](STATUS.md) for roadmap  
+→ See [`CHANGELOG.md`](CHANGELOG.md) for iteration history
+
 ---
 
 ## Scope
@@ -34,7 +44,7 @@ The focus here is measurement and outcomes. This repository is intentionally lim
 
 ## Results
 
-### Current Status (Iteration 9)
+### Current Status (Iteration 9, December 2025)
 
 | Metric | Value |
 |--------|-------|
@@ -58,6 +68,23 @@ The focus here is measurement and outcomes. This repository is intentionally lim
 
 Summary data: [`data/iter_summary.csv`](data/iter_summary.csv)
 
+```
+iter,phase,date,n,ok_rate,AR,AWI,AWS,notes
+2,final,2025-08,300,1.000,1.00,0.000,0.00,baseline established
+4,early,2025-09,300,0.700,1.00,0.035,0.00,output format regression
+...
+9,final,2025-12,300,1.000,1.00,0.000,0.00,resolved
+```
+
+---
+
+## Project Documents
+
+| Document | Description |
+|----------|-------------|
+| [`STATUS.md`](STATUS.md) | Current phase, completed milestones, and roadmap |
+| [`CHANGELOG.md`](CHANGELOG.md) | Detailed notes for each iteration |
+
 ---
 
 ## Notes
@@ -72,6 +99,3 @@ Summary data: [`data/iter_summary.csv`](data/iter_summary.csv)
 ## Contact
 
 For inquiries about this work, including collaboration or technical details under NDA, please reach out via the contact information on my profile.
-
-Maintained by Brian McCallion.  
-Research conducted under Threshold Signalworks Ltd (Ireland).
