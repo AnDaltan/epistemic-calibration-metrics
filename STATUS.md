@@ -54,4 +54,5 @@ Core calibration metrics (AR, AWI, AWS) are stable at target levels across 300-i
 
 ## Contact
 
-For collaboration inquiries or technical details under appropriate agreements, see profile.
+
+For general collaboration or research discussion, see profile.
