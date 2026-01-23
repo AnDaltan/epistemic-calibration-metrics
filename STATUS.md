@@ -2,6 +2,8 @@
 
 ## Current Phase
 
+Iteration 9 complete, Iter10 in progress
+
 **Iteration 9** — Mixed-domain evaluation ✓
 
 Core calibration metrics (AR, AWI, AWS) are stable at target levels across 300-item evaluation sets covering both informational and procedural prompt types.
@@ -17,7 +19,7 @@ Core calibration metrics (AR, AWI, AWS) are stable at target levels across 300-i
 | Output format hardening | ✓ | Iteration 4 |
 | Multi-field scenarios | ✓ | Iteration 5 |
 | Pipeline variant testing | ✓ | Iteration 6 |
-| Instruction tuning evaluation | ✓ | Iteration 7 |
+| model variant evaluation | ✓ | Iteration 7 |
 | Robustness validation | ✓ | Iteration 8 |
 | Mixed-domain expansion | ✓ | Iteration 9 |
 
