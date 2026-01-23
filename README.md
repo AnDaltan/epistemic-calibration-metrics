@@ -70,6 +70,7 @@ The emphasis here is **measurement and outcomes**. This repository is intentiona
 
 Summary data: [`data/iter_summary.csv`](data/iter_summary.csv)
 
+
 Example schema:
 
 ```csv
@@ -79,3 +80,15 @@ iter,phase,date,n,ok_rate,AR,AWI,AWS,notes
 4,final,2025-09,300,1.000,1.00,0.000,0.00,mitigation validated in subsequent runs
 ...
 9,final,2025-12,300,1.000,1.00,0.000,0.00,stable at target levels
+```
+## Notes
+
+- Results are reported as aggregate telemetry only
+- `phase` column indicates early (initial) vs final (converged) runs within each iteration
+- Iterations 1 and 3 were internal-only development cycles
+
+## Contact
+For general collaboration or research discussion, see profile. 
+
+Maintained by Brian McCallion.
+Research conducted independently (Ireland).
