@@ -1,6 +1,6 @@
 # Changelog
 
-All notable iteration milestones for this project.
+Notable iteration milestones for this project. Early development work (Iterations 1–3) is intentionally summarised at a high level.
 
 ---
 
@@ -21,7 +21,7 @@ All notable iteration milestones for this project.
 
 ## Iteration 6 — Dec 2025
 - Tested alternative pipeline configuration
-- Initial regression in overall accuracy (~90%), resolved
+- Initial regression in overall accuracy, resolved
 - Evaluation set: 300 items
 
 ## Iteration 5 — Nov 2025
