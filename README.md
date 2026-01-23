@@ -72,3 +72,6 @@ Summary data: [`data/iter_summary.csv`](data/iter_summary.csv)
 ## Contact
 
 For inquiries about this work, including collaboration or technical details under NDA, please reach out via the contact information on my profile.
+
+Maintained by Brian McCallion.  
+Research conducted under Threshold Signalworks Ltd (Ireland).
