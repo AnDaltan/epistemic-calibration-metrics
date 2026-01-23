@@ -98,4 +98,6 @@ iter,phase,date,n,ok_rate,AR,AWI,AWS,notes
 
 ## Contact
 
-For inquiries about this work, including collaboration or technical details under NDA, please reach out via the contact information on my profile.
+For general collaboration or research discussion, see profile.
+Maintained by Brian McCallion.
+Research conducted under Threshold Signalworks Ltd (Ireland).
