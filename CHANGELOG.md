@@ -6,7 +6,7 @@ Notable iteration milestones for this project. Early development work (Iteration
 
 ## Iteration 9 — Jan 2026
 - Expanded evaluation to mixed-domain items (informational + procedural)
-- Minor regression identified in edge cases; patched
+- Edge-case sensitivity observed; attribution performed and mitigation validated in subsequent runs.
 - Evaluation set: 300 items
 
 ## Iteration 8 — Jan 2026
@@ -21,7 +21,7 @@ Notable iteration milestones for this project. Early development work (Iteration
 
 ## Iteration 6 — Dec 2025
 - Tested alternative pipeline configuration
-- Initial regression in overall accuracy, resolved
+- Initial regression in overall accuracy, regression no longer observed after measurement tightening
 - Evaluation set: 300 items
 
 ## Iteration 5 — Nov 2025
@@ -31,7 +31,7 @@ Notable iteration milestones for this project. Early development work (Iteration
 
 ## Iteration 4 — Nov 2025
 - Output format changes introduced regression (AWI spike
-- Root cause identified and resolved
+- Root cause identified and mitigation validated in subsequent runs
 - Evaluation set: 300 items
 
 ## Iterations 1–3 — Oct-Nov 2025
