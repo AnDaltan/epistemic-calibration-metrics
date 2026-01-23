@@ -46,7 +46,7 @@ Core calibration metrics (AR, AWI, AWS) are stable at target levels across 300-i
 - **Items per iteration:** 300
 - **Total evaluations to date:** ~2,700+
 - **Iterations completed:** 9
-- **Development period:** July 2025 – present
+- **Development period:** Nov 2025 – present
 
 ---
 
