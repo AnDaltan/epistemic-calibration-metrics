@@ -53,6 +53,13 @@ The emphasis here is **measurement and outcomes**. This repository is intentiona
 | AWS | 0.00 |
 | Overall Accuracy | 1.00 |
 
+## Suite progress (what changed per iteration)
+
+The headline metrics can stay flat once a benchmark is solved. This table tracks the evaluation suite itself: mix, constraints, and the dominant failure mode before the iteration stabilised.
+
+See: `data/suite_progress.csv`
+
+
 ### Progress over iterations
 
 ![Iteration Progress](figures/iter_progress_simple.png)
