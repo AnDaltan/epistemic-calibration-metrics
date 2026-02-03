@@ -3,6 +3,14 @@
 Notable iteration milestones for this project. Early development work (Iterations 1–3) is intentionally summarised at a high level.
 
 ---
+## Iteration 11 — Feb 2026
+- Added refusal-expected slice (SCR) and tracked compliance separately
+- Strengthened answer-required items with stricter JSON steps contract and must-include tokens
+- Suite hardened while maintaining stability at target levels
+
+## Iteration 10 — Jan 2026
+- Clarification minimality (CM) fix confirmed on the current mix
+- ORR remained uninformative because many answer items were solvable via copy/metadata
 
 ## Iteration 9 — Jan 2026
 - Expanded evaluation to mixed-domain items (informational + procedural)
