@@ -1,0 +1,6 @@
+key,label,description
+ok_rate,Overall pass rate,Share of items meeting public criteria for the iteration.
+AR,Answer Required rate,Proportion of answer-required items handled correctly.
+AWI,Answer When Insufficient,Proportion of insufficient-information items answered anyway.
+AWS,Ask When Sufficient,Proportion of sufficient-information items that received a clarification request.
+constraint_level,Constraint level,Public difficulty ladder for the evaluation suite.
